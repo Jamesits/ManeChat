@@ -1,0 +1,3 @@
+[submodule "src/lib/NaiveSocketLibrary"]
+	path = src/lib/NaiveSocketLibrary
+	url = git@github.com:Jamesits/NaiveSocketLibrary.git
